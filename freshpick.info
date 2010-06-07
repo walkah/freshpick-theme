@@ -1,0 +1,12 @@
+name = Fresh Pick
+description = A demo theme based on a template from styleshout.com
+core = 6.x
+engine = phptemplate
+
+stylesheets[screen][] = css/screen.css
+
+regions[feature] = Feature
+regions[right] = Sidebar
+regions[bottom_left] = Bottom Left
+regions[bottom_center] = Bottom Center
+regions[bottom_right] = Bottom Right
